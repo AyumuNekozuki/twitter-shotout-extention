@@ -1,0 +1,5 @@
+
+[aria-label="トレンド"],
+[aria-label="ホームタイムライン"]{
+	display: none !important;
+}
